@@ -1,2 +1,2 @@
 # MaisonYvoz
-Site vitrine pour la boulangerie de Yvoz a Quesnoy-sur-Deule
+Site vitrine pour la boulangerie de Maxime Yvoz a Quesnoy-sur-Deule

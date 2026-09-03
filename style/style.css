@@ -1,0 +1,18 @@
+.title {
+    font-style: bold;
+    text-align: center;
+    color: #492000;
+    font-size: 70;
+    font-family: ;
+}
+
+footer {
+    display: flex;
+    padding: 5px;
+    background-color: lightgray;
+}
+
+footer > p {
+    color: #492000;
+    text-align: center;
+}
