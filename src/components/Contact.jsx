@@ -21,9 +21,9 @@ function Contact() {
           <div className="contact-item">
             <h3>Horaires</h3>
             <p>
-              Lundi – Vendredi : 6h30h – 19h
+              Lundi – Vendredi : 6h30 – 19h
               <br />
-              Dimanche : 6h30h – 13h
+              Dimanche : 6h30 – 13h
               <br />
               Fermé le Mercredi
             </p>
@@ -31,7 +31,7 @@ function Contact() {
           <div className="contact-item">
             <h3>Téléphone</h3>
             <p>
-              <a href="tel:+33300000000">03 00 00 00 00</a>
+              <a href="tel:+33962127872">09 62 12 78 72</a>
             </p>
           </div>
         </div>
